@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.div{
+    border: 15rem;
+}
+div{
+    background-color: black;
+    width: 150px;
+    justify-content: center;
+    text-align: center;
+}
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    width: 1.5rem;
+   
+}
+.one{
+    background-color: orange;
+    color: black;
+    border-radius: 20px;
+    padding: 5px;
+    width: 3.5rem;
+    
+}
+.come{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(39, 37, 37);
+    text-align: left;
+    box-shadow: 10px;
+    color: white;
+
+}
+.ion{
+    background-color: orange;
+    color: black;
+    border-radius: 20px;
+    padding: 5px;
+    width: 1.5rem;
+}
